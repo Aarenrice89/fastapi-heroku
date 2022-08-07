@@ -1,5 +1,6 @@
 # fastapi-heroku
 
+https://dashboard.heroku.com/apps/sample-fastapi-webapp/settings
 Example on how to get a fastapi app set up on Heroku dyno
 
 ## FastAPI setup
